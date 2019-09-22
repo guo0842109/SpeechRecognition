@@ -1,0 +1,16 @@
+Input:/home/cangye/code/speech/data/1.wav
+Output:一九三米二马十三用照物四伤声安月狎韩原下五村同家红草物人进呈更止一土
+Input:/home/cangye/code/speech/data/2.wav
+Output:开阳楼好现卡后愈直惊制的山深置也的查挖窝王光袅且成嗡殊的在山井苦断
+Input:/home/cangye/code/speech/data/3.wav
+Output:对积同国云层连下片银海又时特国稀广的力物一据可贤南国冲利的群伤大病
+Input:/home/cangye/code/speech/data/4.wav
+Output:王京翰对圈蝶后部分鱼电森产起来极此为府定为抓钩
+Input:/home/cangye/code/speech/data/1.wav
+Output:一九三百二达十三入烧午四是托首安月些岸原下五村同家红嫂无人既炒更止空
+Input:/home/cangye/code/speech/data/2.wav
+Output:他两过草现考后一直惊子的山置也得怕光龙王养宝首目冷地在山井口断
+Input:/home/cangye/code/speech/data/3.wav
+Output:北积方口凉层眼下毕云海又时特国稀广的原物意是渴选南模佛率的请商大制
+Input:/home/cangye/code/speech/data/4.wav
+Output:王花翰对香别电合不着运点森长值来以四为捕定为抓钩

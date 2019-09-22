@@ -1,0 +1,2 @@
+model_checkpoint_path: "speech.module.v2-99"
+all_model_checkpoint_paths: "speech.module.v2-99"
